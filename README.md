@@ -10,4 +10,4 @@ ik
 
 ![katje](a.jpeg)
 
-Hier is de link naar de [website van zuyd.nl](https://zuyd.nl)
+Hier is de link naar de [zuyd.nl](https://zuyd.nl)
